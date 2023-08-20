@@ -1,0 +1,8 @@
+20230819	10:30:59	741888d4-8c88-42e6-85ce-f8a82cb96ccc	Error: Not allowed by CORS
+20230820	12:31:13	0c483c84-8b74-42e9-9ad8-af85df877faa	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:31:21	21ac8622-8f1f-451c-bc73-6a17c87d2d03	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:31:35	bd180fdc-438f-4372-b50b-217603e5a140	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:34:44	e51ce6a8-a7cf-4427-8a07-c72b6e61b91d	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:36:34	51337178-d470-4c95-8c6a-8dd1c5b176db	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:36:35	121c8b00-2447-4756-865e-917967305340	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20230820	12:38:43	a432a5f2-3424-4787-afec-232fd2db5b3f	SyntaxError: Unexpected token 'e', "#" is not valid JSON
