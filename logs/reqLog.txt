@@ -87,3 +87,7 @@
 20230820	13:24:42	93e83625-bef5-4373-9d4e-8d9000af2045	GET	undefined	/refresh
 20230820	13:24:48	339715a9-5a56-41a1-8cba-b0ffc7d2eb83	POST	undefined	/auth
 20230820	13:24:56	18a94281-cc4d-4fad-ba7c-daed67557880	GET	undefined	/refresh
+20230820	14:49:24	bd8b96ee-7a1e-44f7-a9ec-76da3e52ba06	POST	undefined	/auth
+20230820	15:54:15	81b20d11-9e46-49ab-a90a-34e7e657d642	POST	undefined	/register
+20230820	15:57:22	a2c6cf4d-6da8-4b45-b411-edd6a5f184db	POST	undefined	/register
+20230820	17:28:33	c1d1cf94-4c6a-46d9-b220-2aca365080d4	POST	undefined	/register
